@@ -9,7 +9,9 @@ The project was done as part of the **IT 305 Programming Languages** course at I
 
 ## Running the project
 
-To run the project, follow these steps:
+To run the project, you will first need to install Scala. You can find detailed instructions [on this link](https://www.scala-lang.org/download/). 
+
+After installing Scala, follow these steps to run the game:
 ```
 git clone https://github.com/Aldin-SXR/connect-4-example.git
 cd connect-4-example
